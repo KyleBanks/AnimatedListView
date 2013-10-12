@@ -1,0 +1,12 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.kylewbanks.animlv"
+    android:versionCode="1"
+    android:versionName="0.1">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="18" />
+
+    <application android:allowBackup="true">
+
+    </application>
+
+</manifest>
