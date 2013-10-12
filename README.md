@@ -9,4 +9,4 @@ For an example of an application that used this library, checkout of the [KyleWB
 
 Bad Quality GIF of the AnimatedListView
 =======================================
-[](http://gifninja.com/animatedgifs/732117/animatedlistview.gif)
+![Bad quality GIF.](http://gifninja.com/animatedgifs/732117/animatedlistview.gif)
