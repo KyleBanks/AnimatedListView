@@ -3,7 +3,7 @@ package com.kylewbanks.animlv;
 import android.view.View;
 
 /**
- * Created by kylewbanks on 2013-10-11.
+ * Called to populate a View with data from an Object.
  */
 public interface AnimatedListViewObjectMapper {
 

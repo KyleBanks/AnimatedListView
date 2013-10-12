@@ -5,10 +5,10 @@ import android.util.AttributeSet;
 import android.widget.ListAdapter;
 import android.widget.ListView;
 
-import java.util.List;
-
 /**
- * Created by kylewbanks on 2013-10-11.
+ * The actual ListView that will display the animations.
+ *
+ * For now it does nothing a normal ListView can't do, but that may change in the future.
  */
 public class AnimatedListView extends ListView {
 

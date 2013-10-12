@@ -5,15 +5,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.view.animation.Animation;
-import android.view.animation.AnimationSet;
-import android.view.animation.AnimationUtils;
 import android.view.animation.TranslateAnimation;
 import android.widget.ArrayAdapter;
 
 import java.util.List;
 
 /**
- * Created by kylewbanks on 2013-10-11.
+ * Manages a List of objects to display in the AnimatedListView. When a new view needs to be displayed, it will
+ * request that the AnimatedListViewObjectMapper populate the view, and then animated it.
  */
 public class AnimatedListViewAdapter extends ArrayAdapter {
 
